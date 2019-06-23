@@ -1,5 +1,9 @@
 # tokenclustering
-Tool to cluster rpg token images into a single image. Old project from 2010 made in java using swing.
+This desktop application was made to enhance the experience of playing tabletop RPG. The idea behind it is to create tokens that represent characters, monsters and other special items but the process of putting them together for printing used to be a problem, that's when I created token clustering.
+
+This consists of a tool to cluster rpg token images into a single image. 
+
+The project was created in 2010 using Java and Swing.
 
 
 ### Token Clustering in Use
